@@ -1,6 +1,6 @@
 {
   "name": "@luckyfinance/alpine-sdk",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "SDK for AlpineV1",
   "main": "index.js",
   "dependencies": {
